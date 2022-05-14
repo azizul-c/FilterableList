@@ -1,7 +1,6 @@
 # Filterable List
 
-Created with vanilla JavaScript.
-Tutorial: https://youtu.be/G1eW3Oi6uoc
+Created with vanilla JavaScript, following this tutorial: https://youtu.be/G1eW3Oi6uoc
 
 ![image](https://user-images.githubusercontent.com/71241543/162879175-b28f852f-8aaf-4e2e-9383-db7ecef987fb.png)
 
